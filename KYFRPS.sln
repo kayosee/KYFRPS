@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYFRPS", "KYFRPS\KYFRPS.csproj", "{63267299-59BC-4EBB-90F6-7E158C74BB95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYFRPS.Common", "KYFRPS.Common\KYFRPS.Common.csproj", "{D5E670B8-B9AD-4EE9-BFA0-395DEDF79D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYFRPS.Server", "KYFRPS.Server\KYFRPS.Server.csproj", "{5B44A9EE-D1DE-44EF-B279-837C81478ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYFRPS.Client", "KYFRPS.Client\KYFRPS.Client.csproj", "{D08443C8-D173-40FF-BF9D-93BB240036D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63267299-59BC-4EBB-90F6-7E158C74BB95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63267299-59BC-4EBB-90F6-7E158C74BB95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63267299-59BC-4EBB-90F6-7E158C74BB95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63267299-59BC-4EBB-90F6-7E158C74BB95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E670B8-B9AD-4EE9-BFA0-395DEDF79D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E670B8-B9AD-4EE9-BFA0-395DEDF79D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E670B8-B9AD-4EE9-BFA0-395DEDF79D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E670B8-B9AD-4EE9-BFA0-395DEDF79D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B44A9EE-D1DE-44EF-B279-837C81478ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B44A9EE-D1DE-44EF-B279-837C81478ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B44A9EE-D1DE-44EF-B279-837C81478ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B44A9EE-D1DE-44EF-B279-837C81478ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D08443C8-D173-40FF-BF9D-93BB240036D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D08443C8-D173-40FF-BF9D-93BB240036D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D08443C8-D173-40FF-BF9D-93BB240036D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D08443C8-D173-40FF-BF9D-93BB240036D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3954F32B-051E-41C8-99DC-407206C53567}
+	EndGlobalSection
+EndGlobal
